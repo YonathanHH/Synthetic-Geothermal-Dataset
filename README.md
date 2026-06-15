@@ -1,4 +1,4 @@
-# Synthetic Global Geothermal Well Dataset — Technical Documentation
+# Synthetic Global Geothermal Well Dataset Technical Documentation
 
 **Dataset Name:** `geothermal_wells_worldwide.csv`
 
