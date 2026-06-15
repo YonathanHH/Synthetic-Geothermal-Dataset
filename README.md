@@ -16,6 +16,8 @@
 
 **Contact info:** yonathan.hary@outlook.com
 
+**Example Deployed Apps:** https://github.com/YonathanHH/Geothermal-Power-Predictor-App/
+
 ---
 
 ## Overview
