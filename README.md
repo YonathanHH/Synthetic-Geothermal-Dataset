@@ -1,12 +1,19 @@
 # Synthetic Global Geothermal Well Dataset — Technical Documentation
 
 **Dataset Name:** `geothermal_wells_worldwide.csv`
+
 **Companion File:** `geothermal_fields_summary.csv`
+
 **Version:** 1.0
+
 **Generated:** June 2026
+
 **Total Records:** 20,000 wells across 94 geothermal fields in 23+ countries
+
 **Purpose:** Synthetic but physically realistic geothermal well dataset for data science, machine learning, and reservoir engineering research
+
 **Created by:** YonathanHH
+
 **Contact info:** yonathan.hary@outlook.com
 
 ---
